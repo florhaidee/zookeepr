@@ -127,6 +127,17 @@
         "goofy"
       ],
       "id": "12"
+    },
+    {
+      "name": "Puffy",
+      "species": "panda",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "13"
     }
   ]
 }
